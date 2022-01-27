@@ -1,0 +1,164 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap");
+body {
+  margin: 0;
+  font-family: "roboto";
+}
+
+.wholebox {
+  height: 650px;
+  width: 400px;
+  border-radius: 2em;
+  background-size: 25em;
+}
+
+.wholebox .ingredients {
+  background-color: #c4c2c2;
+  border-radius: 0.7em;
+  width: 350px;
+  height: 3em;
+  position: absolute;
+  top: 5em;
+  left: 1.5em;
+  -webkit-box-shadow: 2px 2px 4px #686868;
+          box-shadow: 2px 2px 4px #686868;
+}
+
+.wholebox h1 {
+  text-align: center;
+  font-size: 20px;
+  color: #eb5625;
+}
+
+.wholebox .search {
+  background-color: #c4c2c2;
+  border-radius: 0.7em;
+  width: 350px;
+  height: 3em;
+  position: absolute;
+  top: 10em;
+  left: 1.5em;
+  -webkit-box-shadow: 2px 2px 4px #686868;
+          box-shadow: 2px 2px 4px #686868;
+}
+
+.wholebox .search .lupa img {
+  position: absolute;
+  top: 0.8em;
+  left: 1.5em;
+  height: 25px;
+}
+
+.wholebox .search p {
+  text-align: center;
+  color: gray;
+  font-weight: bold;
+}
+
+.wholebox .fav {
+  background-color: #c4c2c2;
+  border-radius: 0.7em;
+  width: 350px;
+  height: 3em;
+  position: absolute;
+  top: 15em;
+  left: 1.5em;
+  -webkit-box-shadow: 2px 2px 4px #686868;
+          box-shadow: 2px 2px 4px #686868;
+}
+
+.wholebox .fav p {
+  color: #eb5625;
+  font-weight: bold;
+  margin-left: 1em;
+}
+
+.wholebox .fav-recipes .box1 {
+  background-color: #c4c2c2;
+  border-radius: 0.7em;
+  width: 10em;
+  height: 6em;
+  position: absolute;
+  top: 19em;
+  left: 1.5em;
+  -webkit-box-shadow: 2px 2px 4px #686868;
+          box-shadow: 2px 2px 4px #686868;
+}
+
+.wholebox .fav-recipes .box2 {
+  background-color: #c4c2c2;
+  border-radius: 0.7em;
+  width: 10em;
+  height: 6em;
+  position: absolute;
+  top: 19em;
+  left: 12em;
+  -webkit-box-shadow: 2px 2px 4px #686868;
+          box-shadow: 2px 2px 4px #686868;
+}
+
+.wholebox .fav-recipes .box3 {
+  background-color: #c4c2c2;
+  border-radius: 0.7em 0 0 0.7em;
+  width: 2.5em;
+  height: 6em;
+  position: absolute;
+  top: 19em;
+  left: 22.5em;
+  -webkit-box-shadow: 0px 2px 4px #686868;
+          box-shadow: 0px 2px 4px #686868;
+}
+
+.wholebox .recipes {
+  background-color: #c4c2c2;
+  border-radius: 0.7em;
+  width: 350px;
+  height: 3em;
+  position: absolute;
+  top: 28em;
+  left: 1.5em;
+  -webkit-box-shadow: 2px 2px 4px #686868;
+          box-shadow: 2px 2px 4px #686868;
+}
+
+.wholebox .recipes p {
+  margin-left: 1em;
+  color: #eb5625;
+  font-weight: bold;
+}
+
+.wholebox .recipes-box .rbox1 {
+  background-color: #c4c2c2;
+  border-radius: 0.7em;
+  width: 10em;
+  height: 6em;
+  position: absolute;
+  top: 32em;
+  left: 1.5em;
+  -webkit-box-shadow: 2px 2px 4px #686868;
+          box-shadow: 2px 2px 4px #686868;
+}
+
+.wholebox .recipes-box .rbox2 {
+  background-color: #c4c2c2;
+  border-radius: 0.7em;
+  width: 10em;
+  height: 6em;
+  position: absolute;
+  top: 32em;
+  left: 12em;
+  -webkit-box-shadow: 2px 2px 4px #686868;
+          box-shadow: 2px 2px 4px #686868;
+}
+
+.wholebox .recipes-box .rbox3 {
+  background-color: #c4c2c2;
+  border-radius: 0.7em 0 0 0.7em;
+  width: 2.5em;
+  height: 6em;
+  position: absolute;
+  top: 32em;
+  left: 22.5em;
+  -webkit-box-shadow: 0px 2px 4px #686868;
+          box-shadow: 0px 2px 4px #686868;
+}
+/*# sourceMappingURL=main.css.map */
